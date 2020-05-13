@@ -1,3 +1,7 @@
 try delete
+<<<<<<< HEAD
 differ bbbaaaabbb #branch1
 differ bbbaaaabbb #branch2
+=======
+differ fjiejf #branch1
+>>>>>>> branch1
